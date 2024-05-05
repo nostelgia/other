@@ -15,6 +15,9 @@ public class PlayerController : MonoBehaviour
 
         // 이동 벡터를 현재 위치에 더하여 새로운 위치 계산
         transform.Translate(movement, Space.World);
+<<<<<<< HEAD
 
+=======
+>>>>>>> a4b6843e3429cb91edf98e8bd1ae9af3aae6effe
     }
 }

@@ -229,6 +229,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &679799926
 GameObject:
   m_ObjectHideFlags: 0
@@ -375,6 +376,8 @@ MonoBehaviour:
   player: {fileID: 0}
   moveSpeed: 3
   stoppingDistance: 2
+=======
+>>>>>>> a4b6843e3429cb91edf98e8bd1ae9af3aae6effe
 --- !u!1 &934663860
 GameObject:
   m_ObjectHideFlags: 0
@@ -491,7 +494,10 @@ GameObject:
   - component: {fileID: 1461444964}
   - component: {fileID: 1461444963}
   - component: {fileID: 1461444962}
+<<<<<<< HEAD
   - component: {fileID: 1461444965}
+=======
+>>>>>>> a4b6843e3429cb91edf98e8bd1ae9af3aae6effe
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -573,6 +579,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 45, y: -45, z: 0}
+<<<<<<< HEAD
 --- !u!114 &1461444965
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -586,6 +593,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rotationSpeed: 90
+=======
+>>>>>>> a4b6843e3429cb91edf98e8bd1ae9af3aae6effe
 --- !u!1 &1497860402
 GameObject:
   m_ObjectHideFlags: 0
@@ -824,6 +833,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+<<<<<<< HEAD
 --- !u!1 &1972293030
 GameObject:
   m_ObjectHideFlags: 0
@@ -929,6 +939,8 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1972293030}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+=======
+>>>>>>> a4b6843e3429cb91edf98e8bd1ae9af3aae6effe
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -937,4 +949,7 @@ SceneRoots:
   - {fileID: 1697846564}
   - {fileID: 313825815}
   - {fileID: 1497860407}
+<<<<<<< HEAD
   - {fileID: 679799932}
+=======
+>>>>>>> a4b6843e3429cb91edf98e8bd1ae9af3aae6effe

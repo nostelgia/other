@@ -3,8 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
+<<<<<<< HEAD
   tags:
   - player
+=======
+  tags: []
+>>>>>>> a4b6843e3429cb91edf98e8bd1ae9af3aae6effe
   layers:
   - Default
   - TransparentFX
